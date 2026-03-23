@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0f172a"/>
+  <rect x="60" y="60" width="392" height="392" rx="48" fill="#1e293b"/>
+  <!-- House outline -->
+  <polygon points="256,90 420,210 420,420 92,420 92,210" fill="none" stroke="#38bdf8" stroke-width="18" stroke-linejoin="round"/>
+  <!-- Door -->
+  <rect x="210" y="310" width="92" height="110" rx="8" fill="none" stroke="#38bdf8" stroke-width="14"/>
+  <!-- Window left -->
+  <rect x="120" y="250" width="70" height="60" rx="6" fill="none" stroke="#7dd3fc" stroke-width="12"/>
+  <line x1="155" y1="250" x2="155" y2="310" stroke="#7dd3fc" stroke-width="8"/>
+  <line x1="120" y1="280" x2="190" y2="280" stroke="#7dd3fc" stroke-width="8"/>
+  <!-- S360 text -->
+  <text x="256" y="490" font-family="Arial, sans-serif" font-size="52" font-weight="900" fill="#38bdf8" text-anchor="middle" dy="-18">S360</text>
+</svg>
